@@ -2,7 +2,7 @@
 
 MT4All Resources is a collection of corpora, dictionaries, evaluation data, and machine translation models derived from the [MT4All CEF project](http://ixa2.si.ehu.eus/mt4all/project).
 
-We have developed resources for 11 languages from a wide range of language families and writing scripts, including Basque, Catalan, English, Finnish, Georgian, German, Kazakh, Latvian, Norwegian, Spanish and Ukrainian, and from 6 different domains, including Biomedical, Customer support, Finance, General and Legal.
+We have developed resources for 11 languages from a wide range of language families and writing scripts, including Basque, Catalan, English, Finnish, Georgian, German, Kazakh, Latvian, Norwegian, Spanish and Ukrainian, and from 6 different domains, namely Biomedical, Customer support, Finance, General, Legal and Newswire.
 
 ## Description
 
